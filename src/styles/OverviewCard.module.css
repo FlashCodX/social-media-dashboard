@@ -1,0 +1,35 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  padding: 20px;
+  background: var(--dark-desaturated-blue);
+}
+
+.titleContainer{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.titleContainer > h1{
+  font-size: 1rem;
+  color: gray;
+}
+
+.valuesContainer{
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.valuesContainer > p{
+  font-size: 2.3rem;
+  font-weight: bold;
+}
+
+.valuesContainer > div{
+  display: flex;
+  align-items: flex-end;
+}

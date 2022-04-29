@@ -1,26 +1,19 @@
-# APP NAME
+# Social Media Dashboard
 
-<!-- # ![preview](./src/assets/screenshot.png) -->
+# ![preview](./src/assets/screenshotDark.png)
 
-A react JS template with css resets, and file structure.
+# ![preview](./src/assets/screenshotLight.png)
 
-Clone and install all needed dependencies.
+A challenge made for Frontend Mentor.
 
-```sh
-$ git clone https://github.com/FlashCodX/react-template
-$ cd react-template
-$ npm install
-$ npm start
-```
-
-<!-- A challenge made for Frontend Mentor. -->
-
-<!-- > Check it out: [https://FlashCodX.github.io/ping-coming-soon/](https://FlashCodX.github.io/ping-coming-soon/) -->
+> Check it out: [https://FlashCodX.github.io/social-media-dashboard/](https://FlashCodX.github.io/social-media-dashboard/)
 
 ## Tech
 
 - [React] - HTML enhanced for web apps!
 - [CSS Modules] - Used to prevent class overlap.
+- [React Icons] - A library with all the icons i used.
+- [Redux] - A global state management.
 
 ## License
 
@@ -29,3 +22,6 @@ MIT
 **Free Software, Hell Yeah!**
 
 [react]: https://reactjs.org/
+
+[reacticons] - https://react-icons.github.io/react-icons/
+[redux] - https://redux.js.org/

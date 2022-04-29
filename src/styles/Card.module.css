@@ -1,0 +1,42 @@
+.card{
+  border-top: 5px solid aqua;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  padding: 20px;
+  background: var(--dark-desaturated-blue);
+}
+
+.socialrefContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gray;
+  gap: 10px;
+}
+
+.card > p{
+  margin-top: 10px;
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.cardDescription{
+  font-weight: lighter;
+  letter-spacing: 6px;
+  font-size: 1rem;
+  color: lightgray;
+  opacity: .5;
+}
+
+.timestampContainer{
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 5px;
+margin-top: 10px;
+  color: lightgreen;
+  font-size: 1rem;
+  font-weight: 600;
+}
